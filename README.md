@@ -16,17 +16,3 @@ Landing estática orientada a reclutadores. HTML/CSS/JS sin build ni dependencia
 - **Ecommerce:** se incluyen las dos capturas aportadas. Los importes son ingresos reportados en los tableros, no métricas de ROAS ni utilidad neta. Evitar afirmar incrementos causados exclusivamente por publicidad si no hay datos de atribución.
 - **Clinicas:** sección explícitamente conceptual: es un plan de trabajo y no un caso de clínicas ya gestionado.
 
-## Próximos respaldos a incorporar
-
-1. Capturas de Google Ads Extragas antes/después, identificando ajustes hechos por Oscar y ventana de comparación homogénea. Ocultar datos confidenciales antes de compartir.
-2. Certificar empresa, moneda, rol comercial y participación en el dashboard de ventas 2022–2024.
-3. Confirmar qué tiendas corresponden a casos propios y documentar su relación de gestión con resultados. La comparación de ingresos por sí sola no comprueba atribución.
-4. Incorporar un caso Meta Ads con campañas reales: inversión, CPL, tasa de contacto, citas confirmadas, calidad y ventana temporal.
-
-## Edición
-
-El contenido se encuentra directamente en `index.html`. El sitio no necesita npm ni Vite. Las fotos y capturas están en `assets/`.
-
-## Fotografía actualizada (v3)
-
-La fotografía principal fue reemplazada por el archivo que Oscar adjuntó, `Foto presentación .JPG` (834×1112 px). `assets/oscar-portrait.webp` es su copia optimizada para web; `assets/Foto_presentacion_Oscar.JPG` conserva el original. En celular, el retrato aparece bajo el titular para que el reclutador vea la fotografía sin hacer scroll por toda la presentación.
